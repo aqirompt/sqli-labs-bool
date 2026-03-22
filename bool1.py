@@ -1,6 +1,6 @@
 import requests#用于发送HTTP请求
 #url填入sql注入页面网址
-url= 'http://URL/Less-8/index.php'
+url= 'http://example.com/Less-8/index.php'
  
 res =""#存储爆破出的字符串
  
